@@ -82,3 +82,73 @@ font-size: 50px;
 
 
 }
+#fontal-id{
+
+font-size: 18px;
+
+
+}
+
+
+#shibpur{
+
+color: rgb(32, 180, 180);
+
+}
+#kawaski-ninja{
+
+font-style: normal;
+
+
+color:rgb(44, 42, 42)
+}
+.last-in-kawaksai{
+
+
+
+
+display: flex;
+}
+
+#flash-list{
+
+margin-top: 100px;
+
+
+}
+#mikado-007{
+
+color: rgb(255, 255, 255);
+
+text-align: center;
+
+font-style: italic;
+font-size: 60px;
+
+background-image: linear-gradient(rgb(11, 73, 245),skyblue);
+
+
+}
+#moric-bukhaili{
+
+font-style: italic;
+font-size: 12px;
+color:rgb(41, 39, 39);
+
+}
+
+.fiver{
+
+
+display: flex;
+
+
+}
+
+#Ninja{
+
+margin-top: 145px;
+
+
+
+}
