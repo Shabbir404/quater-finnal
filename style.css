@@ -1,0 +1,44 @@
+body{
+
+
+    font-family: 'Otomanopee One', sans-serif;
+}
+.connect-link-fb{
+
+text-decoration: none;
+
+color: white;
+
+background-color: rgb(81, 187, 230);
+
+padding: 1%;
+
+padding-top: 10px;
+
+border-radius: -6%;
+
+border-radius: 6px;
+
+padding-bottom: 10px;
+}
+span{
+color: orange; font-size: 45px;
+
+}
+
+.half-widht{
+
+
+width: 40%;
+float:left;
+margin-left: 5%;
+padding-left: 2%;
+}
+.half-widht img {
+    width: 100%;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+  background-size: cover;
+}
