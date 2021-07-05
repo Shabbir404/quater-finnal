@@ -43,3 +43,42 @@ padding-left: 2%;
   background-size: cover;
   display: flex;
 }
+.firt-second-diplay{ display: flex;}
+
+.uppar-link{
+
+text-decoration: none;
+color: white;
+background-color: rgb(81, 187, 230);
+padding: 1%;
+
+padding-top: 10px;
+
+border-radius: -6%;
+
+border-radius: 6px;
+
+padding-bottom: 10px;
+
+}
+
+h3{
+
+color: rgb(0, 171, 250);
+font-style: italic;
+
+}
+#h1-tag-2nd-section{
+
+
+font-size: 65px;
+
+
+}
+
+#moving-id{
+
+font-size: 50px;
+
+
+}
